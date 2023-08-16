@@ -50,5 +50,5 @@ variable "placeholder" {
 }
 
 variable "bucket_prefix" {
-  dscription = "prefix for bucket name"
+  description = "prefix for bucket name"
 }
